@@ -1,3 +1,3 @@
-# Uzman-Sistemler
+# Expert Systems
 
-Bu repo Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği bölümü mesleki derslerinden olan, Uzman Sistemler dersinden yola çıkarak oluşturulmuştur. İlgili kodlar Prolog dilinde yazılmıştır. Bu dil Yapay Zeka'nın esasları arasında bulunmaktadır.
+This repo includes codes which are written in Prolog progmming language. I learned how to program recursive algoritms with Prolog. Also, I understand fundementals of the AI.
